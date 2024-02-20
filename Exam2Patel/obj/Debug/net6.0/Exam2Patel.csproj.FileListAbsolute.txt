@@ -1,0 +1,15 @@
+C:\Users\Aereo\source\repos\Exam2Patel\obj\Debug\net6.0\Exam2Patel.csproj.AssemblyReference.cache
+C:\Users\Aereo\source\repos\Exam2Patel\obj\Debug\net6.0\Exam2Patel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aereo\source\repos\Exam2Patel\obj\Debug\net6.0\Exam2Patel.AssemblyInfoInputs.cache
+C:\Users\Aereo\source\repos\Exam2Patel\obj\Debug\net6.0\Exam2Patel.AssemblyInfo.cs
+C:\Users\Aereo\source\repos\Exam2Patel\obj\Debug\net6.0\Exam2Patel.csproj.CoreCompileInputs.cache
+C:\Users\Aereo\source\repos\Exam2Patel\bin\Debug\net6.0\Exam2Patel.exe
+C:\Users\Aereo\source\repos\Exam2Patel\bin\Debug\net6.0\Exam2Patel.deps.json
+C:\Users\Aereo\source\repos\Exam2Patel\bin\Debug\net6.0\Exam2Patel.runtimeconfig.json
+C:\Users\Aereo\source\repos\Exam2Patel\bin\Debug\net6.0\Exam2Patel.dll
+C:\Users\Aereo\source\repos\Exam2Patel\bin\Debug\net6.0\Exam2Patel.pdb
+C:\Users\Aereo\source\repos\Exam2Patel\obj\Debug\net6.0\Exam2Patel.dll
+C:\Users\Aereo\source\repos\Exam2Patel\obj\Debug\net6.0\refint\Exam2Patel.dll
+C:\Users\Aereo\source\repos\Exam2Patel\obj\Debug\net6.0\Exam2Patel.pdb
+C:\Users\Aereo\source\repos\Exam2Patel\obj\Debug\net6.0\Exam2Patel.genruntimeconfig.cache
+C:\Users\Aereo\source\repos\Exam2Patel\obj\Debug\net6.0\ref\Exam2Patel.dll
