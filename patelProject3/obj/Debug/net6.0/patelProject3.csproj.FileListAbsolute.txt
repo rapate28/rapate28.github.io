@@ -1,0 +1,15 @@
+C:\Users\Aereo\source\repos\patelProject3\bin\Debug\net6.0\patelProject3.exe
+C:\Users\Aereo\source\repos\patelProject3\bin\Debug\net6.0\patelProject3.deps.json
+C:\Users\Aereo\source\repos\patelProject3\bin\Debug\net6.0\patelProject3.runtimeconfig.json
+C:\Users\Aereo\source\repos\patelProject3\bin\Debug\net6.0\patelProject3.dll
+C:\Users\Aereo\source\repos\patelProject3\bin\Debug\net6.0\patelProject3.pdb
+C:\Users\Aereo\source\repos\patelProject3\obj\Debug\net6.0\patelProject3.csproj.AssemblyReference.cache
+C:\Users\Aereo\source\repos\patelProject3\obj\Debug\net6.0\patelProject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aereo\source\repos\patelProject3\obj\Debug\net6.0\patelProject3.AssemblyInfoInputs.cache
+C:\Users\Aereo\source\repos\patelProject3\obj\Debug\net6.0\patelProject3.AssemblyInfo.cs
+C:\Users\Aereo\source\repos\patelProject3\obj\Debug\net6.0\patelProject3.csproj.CoreCompileInputs.cache
+C:\Users\Aereo\source\repos\patelProject3\obj\Debug\net6.0\patelProject3.dll
+C:\Users\Aereo\source\repos\patelProject3\obj\Debug\net6.0\refint\patelProject3.dll
+C:\Users\Aereo\source\repos\patelProject3\obj\Debug\net6.0\patelProject3.pdb
+C:\Users\Aereo\source\repos\patelProject3\obj\Debug\net6.0\patelProject3.genruntimeconfig.cache
+C:\Users\Aereo\source\repos\patelProject3\obj\Debug\net6.0\ref\patelProject3.dll
